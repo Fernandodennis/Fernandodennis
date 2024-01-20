@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fernandodennis
-- 👀 I’m interested in Figma UI/UX designs
-- 🌱 I’m currently learning about figma plugin called anima
+- 👀 I’m interested web and game dev, and a little networking
+- 🌱 I’m currently learning about React.js
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me: mail me or dm on discord (DN: eggbeenaddict, U: Beyond8026)
 
